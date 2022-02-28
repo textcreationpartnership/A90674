@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The picture of a coffee-house, or, The humour of the stock-jobbers</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90674</idno>
+            <idno type="STC">Wing P2154A</idno>
+            <idno type="STC">ESTC R43899</idno>
+            <idno type="EEBO-CITATION">42476301</idno>
+            <idno type="OCLC">ocm 42476301</idno>
+            <idno type="VID">151281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2253:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The picture of a coffee-house, or, The humour of the stock-jobbers</title>
+                  <author>Ward, Edward, 1667-1731, supposed author.</author>
+               </titleStmt>
+               <extent>[2], 2 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Ann. Dom. 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition?</note>
+                  <note>Signatures: 1 leaf unsigned, B¹, C².</note>
+                  <note>Page 6 incorrectly numbered 2.</note>
+                  <note>In verse.</note>
+                  <note>Has been attributed to Edward Ward.</note>
+                  <note>Caption title: Instructions to a painter, &amp;c.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151281:1" rendition="simple:additions"/>
+            <p>THE PICTURE OF A COFFEE-HOUSE:</p>
+            <p>OR, THE HUMOUR OF THE STOCK-Jobbers.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Ann. Dom.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:151281:2"/>
+            <pb n="1" facs="tcp:151281:2" rendition="simple:additions"/>
+            <head>INSTRUCTIONS TO A PAINTER, &amp;c.</head>
+            <lg>
+               <l>WEll, <hi>Painter,</hi> may'ſt thou ſhake in ev'ry part,</l>
+               <l>This Undertaking far exceeds thy Art.</l>
+               <l>But yet ſome Efforts make, and try thy Skill.</l>
+               <l>Prepare thy Colours, and thy Pencils fill.</l>
+               <l>A various Proſpect thou muſt here pourtray,</l>
+               <l>Of diff' rent Paſſions moving ev'ry way.</l>
+               <l>Hope, Joy, Fear, Anguiſh, and tormenting Rage,</l>
+               <l>Throughout the Crowd alternately engage.</l>
+               <l>But Courage, <hi>Painter,</hi> half thy Work is done,</l>
+               <l>When thou haſt once this happily begun.</l>
+               <l>Firſt in dark Colours ſet in open view,</l>
+               <l>The ſmoaky Office of this crack-brain'd Crew.</l>
+               <l>The Common-Shore and Sink of all the Town,</l>
+               <l>Where nothing elſe, but what is Filth goes down.</l>
+               <l>A Receptacle for all ſorts of Men,</l>
+               <l>From Tip-Staves to the Graveſt A—n.</l>
+               <pb n="2" facs="tcp:151281:3" rendition="simple:additions"/>
+               <l> Knights, Bar'nets, Squires, Gentlemen and Drapers,</l>
+               <l>Scriv'ners, Attorneys, Beau's, Fops, Fools, and Scrapers,</l>
+               <l>Vintners, and Mercers, Farmers, City Prentice,</l>
+               <l>And Councellours, the Prieſt too there Commences</l>
+               <l>Stock-Jobber, but (<hi>Eaſt-India</hi> Merchant I'd ſay ſure)</l>
+               <l>The Thing they love, the Name they can't endure.</l>
+               <l>Paint at the Door a little buſy Scout,</l>
+               <l>To take a <hi>Penny</hi> from All that go out.</l>
+               <l>Wiſely conſider'd thus to Tax theſe Fools,</l>
+               <l>To pay their <hi>Quota</hi> by the Mad-houſe Rules:</l>
+               <l>Where Ingreſs <hi>gratis</hi> is allow'd to any,</l>
+               <l>But at their Egreſs all muſt pay their <hi>Penny.</hi>
+               </l>
+               <l>If <hi>J—</hi>'s and <hi>Bedlam</hi> you ſurvey,</l>
+               <l>
+                  <hi>Bedlam</hi>'s the wiſer, if not mad, you'l ſay.</l>
+               <l>He's ſurely mad that for <hi>Ten Thouſands</hi> bargains,</l>
+               <l>And next day ſhuts up Shop not worth four Farthings.</l>
+               <l>That in Campaigns, long Cloak, and powder'd Coats,</l>
+               <l>Looks big, ſwears, huffs, yet cannot pay three Groats.</l>
+               <l>That for the proſpect of uncertain Gain,</l>
+               <l>Loſes his <hi>Time</hi> and <hi>Subſtance</hi> in the main.</l>
+               <l>If theſe Men be not mad, pray tell me whence</l>
+               <l>Is Madneſs; theſe have loſt both Wit and Sence.</l>
+               <l>Now, gentle <hi>Painter,</hi> try if thou can'ſt paint out</l>
+               <l>This eager hurley burley, and mad-brain'd Rout:</l>
+               <pb n="3" facs="tcp:151281:3" rendition="simple:additions"/>
+               <l> That run to venture all their <hi>Stock</hi> at one ſtroke,</l>
+               <l>And puſh to ſee which of them ſhall be firſt broke;</l>
+               <l>Greedily reaching at this tempting fair Bait,</l>
+               <l>Tho' they muſt ſuffer Durance for't in <hi>Ludgate.</hi>
+               </l>
+               <l>Like the wiſe Maſtiff that had ſtole a Liver,</l>
+               <l>To ſhun the fur'ous Butcher ſwims a River,</l>
+               <l>Views the clear Shadow, and now greedy more</l>
+               <l>Snaps ſhort, and loſes all he had before.</l>
+               <l>Now theſe from Counting-houſes, Desks and Shops,</l>
+               <l>Sally to <hi>J—</hi>'s as faſt as Hops.</l>
+               <l>The Coffee-man leaves Chocolate, Tea, Coffee,</l>
+               <l>To know what price for <hi>Bank</hi>-ſtock and <hi>Eaſt-Indie.</hi>
+               </l>
+               <l>The Lady pawns her Plate and Jewels too,</l>
+               <l>To buy ſome <hi>Shares</hi> in <hi>Bank,</hi> or <hi>Old,</hi> or <hi>New.</hi>
+               </l>
+               <l>The young Heir mortgages his Houſe and Lands,</l>
+               <l>To purchaſe <hi>Childiſh Toys</hi> at <hi>J—</hi>'s.</l>
+               <l>The Scriv'ners leave their Leidgers and Indentures,</l>
+               <l>In ſmoaky Coffee-houſe to ſeek <hi>Adventures.</hi>
+               </l>
+               <l>There for <hi>Eaſt-India</hi> and <hi>Bank-Stock</hi> they barter,</l>
+               <l>'Till ſoundly Bit they find they've got a <hi>Tartar.</hi>
+               </l>
+               <l>In every Corner for their <hi>Prey</hi> they beat,</l>
+               <l>He's the beſt <hi>Trader</hi> there that beſt can <hi>Cheat.</hi>
+               </l>
+               <l>They hope to purchaſe Lands, and in Coach ride,</l>
+               <l>You'l ſee them quickly cag'd by the <hi>Ditch-ſide.</hi>
+               </l>
+               <pb n="4" facs="tcp:151281:4"/>
+               <l> But can'ſt thou, Friend, defcribe the various Features</l>
+               <l>Of theſe enchanted fooliſh giddy Creatures:</l>
+               <l>'Tis paſt thy skill, thou'lt <hi>Proteus</hi> ſooner hold</l>
+               <l>In one ſhape, than theſe <hi>Jobbers,</hi> as I'm told.</l>
+               <l>A blaſt of Breath can raiſe or ſink their Fears,</l>
+               <l>They're now like Lions, they'l be ſoon like Deers.</l>
+               <l>Tell them <hi>Stocks</hi> riſe they're very brisk, then tell them</l>
+               <l>They fall, they'l ſneak, and run as faſt to <hi>Sell</hi> them.</l>
+               <l>Thus Children, at their ſilly Sports and Play,</l>
+               <l>Cry for their Balls, then throw them all away.</l>
+               <l>The <hi>Mad-houſe</hi> now is full 'twill hold no more,</l>
+               <l>Rather than fail they'l ſtand before the Door.</l>
+               <l>Happy's the Man can buy at <hi>Thirty Seven,</hi>
+               </l>
+               <l>They little think how ſoon 'twill be <hi>Eleven.</hi>
+               </l>
+               <l>The Fury's buſy, they have drank their Potions,</l>
+               <l>Which take their Brains, and vent themſelves in Notions.</l>
+               <l>Now they're all talk, and You may ſafely ſwear</l>
+               <l>They are all mad, for there's not one to hear.</l>
+               <l>Now change thy Colours, <hi>Painter,</hi> bring pale Blue,</l>
+               <l>Their Faces now are of <hi>Caerulean</hi> Hue.</l>
+               <l>The Scene is alter'd, and their Courage gone,</l>
+               <l>The <hi>Stocks</hi> are falling, and they are Undone.</l>
+               <l>A Frenzy is diffus'd through all the Croud,</l>
+               <l>Some curſe and ſwear, ſome fight, and all talk loud.</l>
+               <pb n="5" facs="tcp:151281:4" rendition="simple:additions"/>
+               <l> This ſudden change hath ſet them all on fret,</l>
+               <l>They now repent their raſh Deſire to get.</l>
+               <l>Thus many a Ship when riding in <hi>Torbay,</hi>
+               </l>
+               <l>By ſudden <hi>Eaſtern</hi> Wind is caſt away.</l>
+               <l>
+                  <hi>Stock-Jobbing</hi> is a Rock where many have ſplit,</l>
+               <l>(Experience ſure ſhould teach theſe Fools more Wit.)</l>
+               <l>This is a Nuſance worſe than Peſtilence,</l>
+               <l>The bane of <hi>Buſineſs, Trade</hi> and <hi>Diligence;</hi>
+               </l>
+               <l>You'l ſee more Tricks among the <hi>Jobbing</hi> Fry,</l>
+               <l>Then e're was found in <hi>S—</hi>'s Lottery.</l>
+               <l>And yet theſe Men will not their Folly own,</l>
+               <l>'Till by their Raſhneſs, broke, they leave the Town:</l>
+               <l>As ſoon you'l make the Miſer hate his Store,</l>
+               <l>As make theſe Mad-men deal in Stocks no more.</l>
+               <l>'ſt, Friend, let's hearken what theſe Franticks ſay,</l>
+               <l>They're noos'd, and fret, and fain would get away,</l>
+               <l>To ſleep in whole Skins, but in vain they throw</l>
+               <l>And toſs, they'l ne're be ſet in <hi>Statu quo.</hi>
+               </l>
+               <l>Look to the Right on that old doting <hi>Cit,</hi>
+               </l>
+               <l>Who by ſome Mad-dog has been ſorely bit,</l>
+               <l>And, raging, Curſes the malignant Stars,</l>
+               <l>Bites his Nails to the quick, and tears his Hairs.</l>
+               <l>There's a young Fool that can but juſt write <hi>Man,</hi>
+               </l>
+               <l>To buy at <hi>Thirty Seven</hi> has pawn'd his Land.</l>
+               <pb n="2" facs="tcp:151281:5"/>
+               <l> What ſays he? heark. Is't riſen ſince I bought?</l>
+               <l>'Tis falling, Sir, and will fall more, 'tis naught.</l>
+               <l>Well, ſell my Stock, for I'm a Son of a Whore,</l>
+               <l>If e're I meddle with <hi>Eaſt-India</hi> more.</l>
+               <l>Look, <hi>Painter,</hi> here are Prieſts, I vow and ſwear,</l>
+               <l>Prithee, what Bus'neſs have theſe Parſons here.</l>
+               <l>They're bit, and in their mad Fit hang their Looks,</l>
+               <l>Let them leſs mind the <hi>Stocks,</hi> and more their <hi>Books.</hi>
+               </l>
+               <l>Bleſs me! What Medley's this? Here's Farmers too,</l>
+               <l>Then we ſhall ne're have done, if this be true:</l>
+               <l>They've left their Oxen, Paſtures, Ploughs and Flocks,</l>
+               <l>And are turn'd mad-brain'd Merchants too in <hi>Stocks.</hi>
+               </l>
+               <l>The Scriveners too I ſee are come to try</l>
+               <l>Their Fortune in <hi>Eaſt-India</hi> Lottery.</l>
+               <l>All theſe among the reſt of the Shop-keepers,</l>
+               <l>Muſt dearly pay for being buſy peepers.</l>
+               <l>Come, <hi>Painter,</hi> let's away, to ſtay is noxious,</l>
+               <l>The Air theſe Mad-men breath in is infectious.</l>
+               <l>Theſe are paſt pity, time is thrown away,</l>
+               <l>When to theſe willful Fools we pity pay.</l>
+               <l>They are dull Sots, incorrigible Sinners.</l>
+               <l>That loſe their time, and ſleep, and peace, and dinners,</l>
+               <l>And thro' unheard-of hardſhips daily run,</l>
+               <l>That they more certainly may be undone.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
